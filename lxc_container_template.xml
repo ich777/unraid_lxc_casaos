@@ -14,7 +14,7 @@
   <Overview>This LXC container contains CasaOS.&#xD;
 Please also consider donating to the maintainer from the software.</Overview>
   <Category>Tools:</Category>
-  <WebUI>http://[IP]:80</WebUI>
+  <WebUI>http://[IP]</WebUI>
   <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/casaos.png</Icon>
   <DonateText>If you like my work (or not) please </DonateText>
   <DonateLink>https://payme.now/pls</DonateLink>
