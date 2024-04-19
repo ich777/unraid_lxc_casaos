@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LXC version="0.1">
+  <Name>CasaOS</Name>
+  <Distribution>debian</Distribution>
+  <Release>bookworm</Release>
+  <Architecture>amd64</Architecture>
+  <Repository>https://github.com/ich777/unraid_lxc_casaos</Repository>
+  <Description>CasaOS</Description>
+  <Autostart>true</Autostart>
+  <Beta>True</Beta>
+  <Support>https://support.me.pls</Support>
+  <Source>https://casaos.io/</Source>
+  <Project>https://github.com/IceWhaleTech/CasaOS</Project>
+  <Overview>This LXC container contains CasaOS.&#xD;
+Please also consider donating to the maintainer from the software.</Overview>
+  <Category>Tools:</Category>
+  <WebUI>http://[IP]:80</WebUI>
+  <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/casaos.png</Icon>
+  <DonateText>If you like my work (or not) please </DonateText>
+  <DonateLink>https://payme.now/pls</DonateLink>
+  <Requires>unRAID server</Requires>
+</LXC>
